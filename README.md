@@ -1,5 +1,5 @@
 # AIDC
- automatic image detection and censoring
+ Automatic Image Detection And Censoring
 
 # Installation
 1> Download the files from the repository.
