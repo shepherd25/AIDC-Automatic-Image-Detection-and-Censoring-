@@ -9,7 +9,7 @@ or
 also install tensorflow-GPU , conda install tensorflow-gpu = 1.14.0
 ## Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
-
+mask_rcnn_coco.h5 file available at https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 ## How to run the program
 python handgun.py splash --weights=filename or path to the weights(.h5 file) --image=filename or path
 eg
